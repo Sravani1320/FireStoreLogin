@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752351717205",
+    "project_id": "firestorelogin-ed688",
+    "storage_bucket": "firestorelogin-ed688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752351717205:android:8d0867137186e02513f1dc",
+        "android_client_info": {
+          "package_name": "com.firestorelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752351717205-b76qclroqmiq5km3ilbs5qb7b2iahmkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJvXxv_fxTw4YzjC6I8Oz8CdYgnKFbeCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752351717205-b76qclroqmiq5km3ilbs5qb7b2iahmkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
